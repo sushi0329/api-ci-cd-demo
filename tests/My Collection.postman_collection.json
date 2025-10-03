@@ -817,8 +817,8 @@
 					"type": "bearer",
 					"bearer": [
 						{
-							"key": "token",
-							"value": "sk_test_51SDlgoGVoNYEbEJevbZsgiuQWlc7d5XSJ1MSVFgydtrstG64UklgzVQBRXdRB3HYbtumClj5AvNhCgaCoWfLyAyr00jxUsm6Re",
+							
+						
 							"type": "string"
 						}
 					]
@@ -868,8 +868,7 @@
 					"type": "bearer",
 					"bearer": [
 						{
-							"key": "token",
-							"value": "sk_test_51SDlgoGVoNYEbEJevbZsgiuQWlc7d5XSJ1MSVFgydtrstG64UklgzVQBRXdRB3HYbtumClj5AvNhCgaCoWfLyAyr00jxUsm6Re",
+							
 							"type": "string"
 						}
 					]
