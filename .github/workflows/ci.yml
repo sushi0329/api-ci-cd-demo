@@ -16,4 +16,4 @@ jobs:
         with:
           node-version: '18'
       - run: npm install -g newman
-      - run: newman run tests/My26DayCollection.postman_collection.json -r cli
+      - run: newman run "tests/My Collection.postman_collection.json" -r cli
